@@ -1,2 +1,2 @@
 # Credit_Risk_Modeling
-Predicting Probability of Default
+Predicting Probability of Default of a Potential Borrower
